@@ -71,7 +71,7 @@ This gives a single score that represents a student's overall readiness for plac
 
 1. Clone this repository
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/mayursangave5/student-career-data-analysis/tree/main
 ```
 
 2. Install required library
